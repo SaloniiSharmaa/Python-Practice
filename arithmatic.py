@@ -1,3 +1,4 @@
+# different arithmatical functions execution in python 
 x = float(input("whats x: "))
 y = float(input("whats y:"))
 z = float(input("whats z: "))
